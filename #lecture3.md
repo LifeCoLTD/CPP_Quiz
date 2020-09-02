@@ -17,4 +17,12 @@
 
 9. How to reverse the whole linked list?
 
-10. What does
+10. How to create three nodes in one line?
+
+11. "int i = 1"的四种写法😂️
+
+12. Under what condition, should we not to consider the reverse linked list?
+
+13. Should we put the "if" condition outside the while loop
+
+14. How to do a reverse function?
